@@ -6,6 +6,7 @@ int main(void)
     cout << "Hello push\n";
 
   cout << "Hello push again\n";
+  cout << "Hello push once again!\n";
 
   return 0;
 }
