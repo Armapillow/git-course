@@ -7,6 +7,7 @@ int main(void)
 
   cout << "Hello push again\n";
   cout << "Hello push once again!\n";
+  cout << "Hello from course!\n";
 
   return 0;
 }
